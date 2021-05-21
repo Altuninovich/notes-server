@@ -1,0 +1,6 @@
+{
+    "port": 80,
+    "jwtSecret": "altu",
+    "mongoUri": "mongodb+srv://altu:al0404@cluster0.wunmx.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://www.altuninnotes.tk"
+}
